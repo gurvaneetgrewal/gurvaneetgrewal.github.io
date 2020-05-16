@@ -1,6 +1,5 @@
 # About
-Hi! Welcome to my personal website. The website features my life as a software engineer, and this GitHub repository is the source
-code for my portfolio-site.
+Hi! Welcome to my personal website. The website features my life as an insurance agent and the services I offer.
 - https://gurvaneetgrewal.github.io/
 
 # Technologies
